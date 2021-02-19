@@ -1,4 +1,5 @@
-[
+{
+  "heroes": [
   {
       "id": "dc-batman",
       "superhero":"Batman", 
@@ -160,3 +161,5 @@
       "characters":"Norrin Radd"
   }
 ]
+
+}
