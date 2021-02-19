@@ -1,0 +1,13 @@
+{
+  "Publicar" : { 
+    "título" : "cadena" , 
+    "vistas" : "int" , 
+    "publicado" : "booleano" , 
+    "createdAt" : "fecha" , 
+    "comments" : "Comentar []" 
+  } ,
+  "Comentario" : { 
+    "cuerpo" : "cadena" , 
+    "publicar" : "Publicar" 
+  }
+}
